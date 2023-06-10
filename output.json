@@ -1,7 +1,8 @@
 {
   "bg": {
-    "value": "#FF005C",
-    "type": "color"
+    "value": "#14ff00",
+    "type": "color",
+    "description": "Button background color"
   },
   "tokenSetOrder": {
     "0": {
