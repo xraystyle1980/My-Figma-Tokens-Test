@@ -1,0 +1,12 @@
+{
+  "bg": {
+    "value": "#FF005C",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "Big Set",
+      "type": "other"
+    }
+  }
+}
